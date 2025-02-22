@@ -27,7 +27,7 @@ Basic statistics were computed to understand key characteristics of the dataset:
 ### Distribution of Movie Ratings
 This histogram shows the distribution of IMDb user ratings across all movies.
 
-![Histogram](visuals/histogram.png)
+![Histogram](visuals/RatingDistribution.png)
 
 Findings:
 - The majority of movies have ratings **between 5 and 8**.
@@ -36,7 +36,7 @@ Findings:
 ### Rating vs. Budget
 This scatter plot visualizes the relationship between a movie's budget and its IMDb rating.
 
-![Scatter Plot](visuals/scatter.png)
+![Scatter Plot](visuals/ScatterPlot.png)
 
 Findings:
 - The data shows **no strong correlation** between budget and rating.
@@ -45,7 +45,7 @@ Findings:
 ### Average Movie Rating Over Time (1975-2005)
 This line plot tracks the trend in average movie ratings over time.
 
-![Trend Plot](visuals/trend.png)
+![Trend Plot](visuals/AvgRatingByYear.png)
 
 Findings:
 - **Ratings were higher in the late 1970s**, followed by a slight decline in later decades.
