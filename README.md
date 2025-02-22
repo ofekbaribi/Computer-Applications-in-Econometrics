@@ -1,7 +1,7 @@
 # Analysis of the Relationships Between Movie Characteristics and Their Ratings Using R
 
 ## Overview
-This project analyzes the relationship between **movie characteristics** and **user ratings** using the **ggplot2movies dataset** in R. The dataset contains information about movies, including **title, release year, budget, runtime, IMDb rating, and genre classifications**. The objective of this analysis is to explore trends and patterns in ratings based on these characteristics.
+This Script analyzes the relationship between **movie characteristics** and **user ratings** using the **ggplot2movies dataset** in R. The dataset contains information about movies, including **title, release year, budget, runtime, IMDb rating, and genre classifications**. The objective of this analysis is to explore trends and patterns in ratings based on these characteristics.
 
 ## Data Preparation
 The dataset was cleaned and preprocessed as follows:
