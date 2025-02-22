@@ -49,7 +49,7 @@ This line plot tracks the trend in average movie ratings over time.
 
 Findings:
 - **Ratings were higher in the late 1970s**, followed by a slight decline in later decades.
-- There is **no clear increasing or decreasing trend after the 1980s**.
+- While there is no clear long-term increasing or decreasing trend after the 1980s, **a sharp drop in ratings is observed in 2004.**
 
 ## Regression Analysis
 A multivariate regression model was applied to **Action movies** to examine how different characteristics influence ratings.
@@ -90,4 +90,3 @@ The analysis reveals several key insights about **how movie characteristics infl
 4. **The overall distribution of movie ratings is centered between 5 and 8**, suggesting that **most movies receive moderate ratings**.
 5. **There is no clear trend in rating changes over time**, but ratings were slightly higher in the late 1970s.
 
-This analysis provides valuable insights for filmmakers and production studios about the factors that contribute to a movie’s IMDb rating.
